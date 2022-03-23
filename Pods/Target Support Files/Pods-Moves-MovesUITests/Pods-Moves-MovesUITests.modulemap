@@ -1,0 +1,6 @@
+module Pods_Moves_MovesUITests {
+  umbrella header "Pods-Moves-MovesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

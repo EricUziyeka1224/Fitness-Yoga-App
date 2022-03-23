@@ -1,0 +1,6 @@
+module Pods_Moves {
+  umbrella header "Pods-Moves-umbrella.h"
+
+  export *
+  module * { export * }
+}
